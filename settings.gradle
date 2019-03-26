@@ -1,0 +1,1 @@
+include 'eureka','clientFir','clientSec','clientThr','zuul'
